@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "employee_name": "asha",
+      "employee_salary": "200000",
+      "employee_age": "20"
+    },
+    {
+      "id": 2,
+      "employee_name": "disha",
+      "employee_salary": "500000",
+      "employee_age": "25"
+    },
+    {
+      "id": 3,
+      "employee_name": "usha",
+      "employee_salary": "500000",
+      "employee_age": "25"
+    },
+    {
+      "id": 4,
+      "employee_name": "nisha",
+      "employee_salary": "500000",
+      "employee_age": "25"
+    },
+    {
+      "id": 5,
+      "employee_name": "asha",
+      "employee_salary": "200000",
+      "employee_age": "20",
+      "emp_pass": "aaaa"
+    }
+  ]
+}
